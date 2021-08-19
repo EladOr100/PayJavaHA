@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="swaggerUiTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-08-19T10:32:03" hostname="T-P-ORELA-WW-N" time="9.017">
+  <properties/>
+  <testcase name="test the add book function" classname="swaggerUiTest" time="5.187"/>
+  <testcase name="test Get book function by Id" classname="swaggerUiTest" time="3.83"/>
+  <system-out><![CDATA[loading configuration
+Crate test type 
+Add new book to the server 
+###########Run addBook test###########
+search in the server book with 7 id
+###########Run getBookById test###########
+TEST UI ENDED
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 92.0.4515.43 (8c61b7e2989f2990d42f859cac71319137787cce-refs/branch-heads/4515@{#306}) on port 38543
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Aug 19, 2021 1:32:02 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
